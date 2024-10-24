@@ -5,8 +5,8 @@ Solving pwn challenges : )
 ```bash
 pwn
 ├── challenge01
-│   └── files + README
+│   └── README.md
 ├── challenge02
-│   └── files + README
+│   └── README.md
 └── ...
 ```
