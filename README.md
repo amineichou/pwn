@@ -1,7 +1,5 @@
 # pwn
 
-Solving pwn challenges : )
-
 ```bash
 pwn
 ├── challenge01
