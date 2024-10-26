@@ -42,7 +42,7 @@ int main(int argc, char* argv[], char** envp){
 ./cmd2 '$(printf "%bbin%bcat %s%s" "\57" "\57" "fla" "g")'
 ```
 
-### Explaination
+### Explanation
 
 - `%b` tells printf to interpret escape sequences.
 - `%s` is for inserting a string.
