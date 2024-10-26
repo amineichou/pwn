@@ -1,4 +1,4 @@
-## pwn : fd [writeup]
+## pwn : Random [writeup]
 
 Challenge from [pwnable.kr](https://pwnable.kr/)
 
