@@ -91,4 +91,9 @@ to solve this i did a simple trick :
 
 I addeed `''` to flag `fl'a'g` because it will expand later on to `flag`.
 
+Or :
+```bash
+./cmd1 "/bin/cat fl'a'g"
+```
+
 end.
