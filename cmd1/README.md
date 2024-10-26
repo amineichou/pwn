@@ -1,4 +1,4 @@
-## pwn : fd [writeup]
+## pwn : cmd1 [writeup]
 
 Challenge from [pwnable.kr](https://pwnable.kr/)
 
