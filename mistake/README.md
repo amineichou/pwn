@@ -118,9 +118,9 @@ And then compares two password buffers (`pw_buf` and `pw_buf2`). If they match, 
 
 ![mistake](https://i.imgur.com/PLBmYXO.png)
 
-`A` is `01000001`
-`01000001` ^ `00000001` = `1000000`
-`1000000` is `@`
+- `A` is `01000001`
+- `01000001` ^ `00000001` = `1000000`
+- `1000000` is `@`
 
 
 end.
