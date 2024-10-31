@@ -1,4 +1,4 @@
-## pwn : Random [writeup]
+## pwn : Mistake [writeup]
 
 Challenge from [pwnable.kr](https://pwnable.kr/)
 
