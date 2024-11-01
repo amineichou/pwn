@@ -109,7 +109,7 @@ This code prompts the user to input a password and stores up to 10 characters in
 
 this code will XOR the input from stdout
 ```c
-    xor(pw_buf2, 10);
+    	xor(pw_buf2, 10);
 ```
 
 And then compares two password buffers (`pw_buf` and `pw_buf2`). If they match, it prints "Password OK" and displays the contents of the flag file. Otherwise, it prints "Wrong Password."
